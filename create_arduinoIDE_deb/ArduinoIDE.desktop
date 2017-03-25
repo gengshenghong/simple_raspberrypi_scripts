@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=<version>
+Name=Arduino IDE
+Comment=An open-source electronics platform based on easy-to-use hardware and software
+Exec=sudo /opt/ArduinoIDE/arduino-<version>/arduino
+Icon=/opt/ArduinoIDE/arduino-<version>/lib/arduino.png
+Terminal=false
+Type=Application
+Categories=Application;Education;Development;ComputerScience;

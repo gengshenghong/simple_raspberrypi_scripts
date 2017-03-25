@@ -1,0 +1,7 @@
+Package: arduino
+Version: <version>
+Description: The official Arduino IDE
+  An open-source electronics platform based on easy-to-use hardware and software
+Maintainer: Geng Shenghong <sidney.geng@bettertree.cn>
+Architecture: armhf
+Installed-Size: <installsize>
